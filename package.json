@@ -4,7 +4,7 @@
   "description": "A basic calculator in nodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/jzavalaq/CalculatorNodeJS/issues"
   },
-  "homepage": "https://github.com/jzavalaq/CalculatorNodeJS#readme"
+  "homepage": "https://github.com/jzavalaq/CalculatorNodeJS#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "save-dev": "0.0.1-security"
+  }
 }
