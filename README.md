@@ -3,6 +3,10 @@ Calculator in NodeJS
 
 __Travis-ci__: [![Travis](https://api.travis-ci.org/jzavalaq/CalculatorNodeJS.svg?branch=main)]()
 
+__Sonarcloud__: [![Sonarcloud Status]
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=alert_status)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
