@@ -1,9 +1,8 @@
 # Calculator in Node JS (With Unit testing)
-Calculator in NodeJS
 
 __Travis-ci__: [![Travis](https://api.travis-ci.org/jzavalaq/CalculatorNodeJS.svg?branch=main)]()
 
-__Sonarcloud__: 
+__Sonarcloud__:
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=alert_status)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=bugs)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)

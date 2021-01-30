@@ -4,7 +4,8 @@
   "description": "A basic calculator in nodeJS",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "coverage": "nyc --reporter=text --reporter=lcov npm test",
   },
   "repository": {
     "type": "git",
