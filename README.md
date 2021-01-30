@@ -5,7 +5,17 @@ __Travis-ci__: [![Travis](https://api.travis-ci.org/jzavalaq/CalculatorNodeJS.sv
 
 __Sonarcloud__: [![Sonarcloud Status]
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=alert_status)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
-
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=bugs)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=code_smells)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=coverage)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=ncloc)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=alert_status)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=security_rating)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=sqale_index)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=jzavalaq_CalculatorNodeJS&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=jzavalaq_CalculatorNodeJS)
 
 Implementation of a Simple Calculator with the next operations:
 
