@@ -8,4 +8,4 @@ script:
   - npm run cover
   after_success:
   - npm run coveralls
-  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=jzavalaq-github -Dsonar.projectKey=CalculatorNodeJS -Dsonar.sources='./app' -X
+  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=jzavalaq -Dsonar.projectKey=CalculatorNodeJS -Dsonar.sources='./app' -X
