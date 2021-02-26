@@ -23,7 +23,7 @@
   "homepage": "https://github.com/jzavalaq/CalculatorNodeJS#readme",
   "dependencies": {
     "-": "0.0.1",
-    "chai": "^4.2.0",
+    "chai": "^4.3.0",
     "mocha": "^8.2.1",
     "save-dev": "0.0.1-security"
   },
